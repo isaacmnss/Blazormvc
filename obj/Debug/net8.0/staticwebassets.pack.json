@@ -1,0 +1,61 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Games\\mecloud\\blazor-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "C:\\Games\\mecloud\\blazor-web\\obj\\Debug\\net8.0\\compressed\\rm70vzdgfd.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "C:\\Games\\mecloud\\blazor-web\\obj\\Debug\\net8.0\\scopedcss\\bundle\\blazor-web.styles.css",
+      "PackagePath": "staticwebassets\\blazor-web.styles.css"
+    },
+    {
+      "Id": "C:\\Games\\mecloud\\blazor-web\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "C:\\Games\\mecloud\\blazor-web\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Games\\mecloud\\blazor-web\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Games\\mecloud\\blazor-web\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "C:\\Games\\mecloud\\blazor-web\\wwwroot\\icon-192.png",
+      "PackagePath": "staticwebassets\\icon-192.png"
+    },
+    {
+      "Id": "C:\\Games\\mecloud\\blazor-web\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Games\\mecloud\\blazor-web\\wwwroot\\sample-data\\weather.json",
+      "PackagePath": "staticwebassets\\sample-data\\weather.json"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.blazor-web.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.blazor-web.props",
+      "PackagePath": "build\\blazor-web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.blazor-web.props",
+      "PackagePath": "buildMultiTargeting\\blazor-web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.blazor-web.props",
+      "PackagePath": "buildTransitive\\blazor-web.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
